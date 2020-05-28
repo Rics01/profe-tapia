@@ -52,6 +52,12 @@ aside{
         float: left;
 	
 }
+.as{ 
+	margin-left:19px;
+	color: white; 
+	font-size: 24px;
+	font-family: "arial"
+}
 
 #s1{
 	height: 80%;
