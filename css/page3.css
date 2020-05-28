@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+header{height: 25%;
+        width: 100%;
+        background-color:#16AED4;
+        float: left;
+		color: red;
+		}
+#s2{height: 100%;
+	width: 90%;
+	float: left;
+	}
+#vid{
+	margin-left:25px;
+	color: white;
+	font-size: 100px;
+	font-family: "arial"}
+
+#s3{
+	height: 100%;
+	width: 10%;
+	float: left;
+	background-color: #16AED4;
+	}
+#im{ display: block;
+	margin-top: 10px;
+	margin-left: 1px;
+	margin-bottom: 1px;
+	margin-right: 1px;
+		
+	border-radius: 100px;
+		width: 90%;
+		height: 85%;
+		
+}
+
+aside{
+	height: 80%;
+        width:30%;
+        background-color:#424242;
+        float: left;
+	
+}
+
+#s1{
+	height: 80%;
+        width: 70%;
+        float: left;
+	
+}
+
+img{
+	height: 100%;
+	width: 100%;
+	
+}
+
+
